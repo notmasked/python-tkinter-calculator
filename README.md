@@ -16,12 +16,10 @@ Calculator is a simple Python desktop calculator built with Tkinter and Pygubu. 
 
 1. Make sure Python 3 is installed.
 2. Clone this repository or download the source code.
-3. Install the required dependency:
+3. Install the required dependencies:
 
 ```bash
-pip install pygubu
-```
-
+pip install -r requirements.txt
 4. Open a terminal in the project folder.
 5. Run:
 
