@@ -1,0 +1,9 @@
+autopep8==2.3.2
+blinker==1.9.0
+Mako==1.4.1
+MarkupSafe==3.0.3
+platformdirs==4.11.10
+pycodestyle==2.14.0
+pygubu==0.42.1
+pygubu-designer==0.46.1
+screeninfo==0.8.1
