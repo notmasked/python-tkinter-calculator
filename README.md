@@ -22,7 +22,7 @@ Calculator is a simple Python desktop calculator built with Tkinter and Pygubu. 
 pip install -r requirements.txt
 4. Open a terminal in the project folder.
 5. Run:
-
+```
 ```bash
 python main.py
 ```
